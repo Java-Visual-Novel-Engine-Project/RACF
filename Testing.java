@@ -13,7 +13,7 @@ public class Testing {
         }
         catch (Exception e)
         {
-            puts("File \"test.txt\" was not found!!!");
+            puts("File \"test.txt\" was not found!");
         }
     }
 }
